@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Dancing+Script:wght@500&family=Mochiy+Pop+P+One&display=swap');
+
+.footerDiv{
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Akaya Telivigala', cursive;
+
+}
+
