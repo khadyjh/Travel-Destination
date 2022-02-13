@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Mochiy+Pop+P+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Dancing+Script:wght@500&family=Mochiy+Pop+P+One&display=swap');
+
+.imgStyle{
+    width: 90%;
+    height: 600px;
+    padding: 10px;
+    object-fit: cover;
+}
+
+/* .rendDiv{
+    display: flex;
+
+} */
+
+.dataDiv{
+
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.dataDiv p {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Akaya Telivigala', cursive;
+}
